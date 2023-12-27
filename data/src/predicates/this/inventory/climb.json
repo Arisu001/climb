@@ -1,0 +1,18 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type": "player",
+        "type_specific": {
+            "type": "player",
+            "gamemode": "unset"
+        },
+        "equipment": {
+            "mainhand": {
+                "tag": "src:climb",
+                "count": 1,
+                "nbt": "{Climb: 1b}"
+            }
+        }
+    }
+}
