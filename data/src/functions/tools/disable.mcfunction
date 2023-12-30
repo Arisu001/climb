@@ -9,7 +9,7 @@ tellraw @s {"text": "═══════════════════�
 scoreboard objectives remove tms.const
 scoreboard objectives remove tms.value
 scoreboard objectives remove tms.var
-scoreboard objectives remove climb.ui_cbow
+scoreboard objectives remove climb.ui_bow
 scoreboard objectives remove climb.x_rnd
 scoreboard objectives remove climb.rnd_
 scoreboard objectives remove climb.err_
