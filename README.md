@@ -1,6 +1,6 @@
 #═════════════════[ Climb ]═════════════════#
 
-> Ver_: 0.0.1
+> Ver_: 0.0.2 --- fix code
 > Language: French
 
 > Solo: Accpeted ✔
